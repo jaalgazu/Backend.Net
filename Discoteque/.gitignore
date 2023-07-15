@@ -1,3 +1,10 @@
-bin/*
+Discoteque.API/bin/*
 .vscode/*
-.obj/*
+Discoteque.API/.obj/*
+Discoteque.APIs/bin/*
+Discoteque.APIs/.vscode/*
+Discoteque.APIs/.obj/*
+Discoteque.Business/bin/*
+Discoteque.Business/obj/*
+Discoteque.Data/bin/*
+Discoteque.Data/obj/*
